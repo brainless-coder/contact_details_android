@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">basic_project</string>
+    <string name="action_settings">Settings</string>
+    <string name="company">MSI Gaming</string>
+    <string name="contact">CONTACT DETAILS</string>
+    <string name="mail">EMAIL ID</string>
+    <string name="mailht">Enter your mail ID</string>
+    <string name="site">WEBSITE</string>
+    <string name="siteht">Enter your website link</string>
+    <string name="phone">PHONE NO</string>
+    <string name="phoneht">Enter your contact no</string>
+    <string name="des">DESCRIPTION</string>
+    <string name="desht">Give some description</string>
+    <string name="add">ADDRESS</string>
+    <string name="addht">Enter your address</string>
+    <string name="hrs">OPERATIONAL HOURS</string>
+    <string name="hrsht">Enter the time when you are active</string>
+    <string name="btn">SUBMIT</string>
+    <string name="title_activity_thankyou">thankyou</string>
+</resources>
